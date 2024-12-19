@@ -13,7 +13,7 @@ Some changes were made in the html file from and pushed to the repo as a test.
 These are now merged on the main branch of the repo using terminal on the VM.
 
 
-# Update #
+#### Update ####
 pushing two new directories. One is a Train App. This is a work in progress. 
 
 The second directory is practice codes for object oriented programming in Python.
