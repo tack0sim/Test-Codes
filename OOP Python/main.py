@@ -6,6 +6,7 @@ from schnee_cloud import SnowCloud
 # Aufruf der Methode
 regenwolke = RainCloud("Regenwolke", "Hellgrau", 100)
 print(regenwolke.describe())
+print(regenwolke.umbrella())
 print("-------------------")
 
 donnerwolke = ThunderCloud("Donnerwolke", "Dunkelgrau", 3)
